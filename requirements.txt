@@ -1,7 +1,4 @@
-shapely
-fiona
 rtree
-pyproj
 folium
 geopy
 geopandas
